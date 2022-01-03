@@ -3,7 +3,7 @@
   align-items: stretch;
   background-color: #fea1e1;
   flex-wrap:nowrap;
-
+  max-width:600px;
   border-radius:20px;
 }
 
