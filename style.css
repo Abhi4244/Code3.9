@@ -1,11 +1,14 @@
-.container {
+.flex-container {
   display: flex;
   align-items: stretch;
-  background-color: #f1f1f1;
+  background-color: #fea1e1;
+  flex-wrap:nowrap;
+  width:740px;
+  border-radius:20px;
 }
 
-.container>div {
-  background-color: DodgerBlue;
+.flex-container>div {
+  background-color: #018acf;
   color: white;
   width: 100px;
   margin: 10px;
